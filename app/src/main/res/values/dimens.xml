@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main__image_call_size">25dp</dimen>
+    <dimen name="activity_main__image_input_call_size">35dp</dimen>
+    <dimen name="activity_main__avatar_size">120dp</dimen>
+</resources>

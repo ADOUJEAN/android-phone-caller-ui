@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <set
+            android:ordering="sequentially"
+            android:repeatCount="infinite"
+            android:repeatMode="restart">
+
+        <translate
+                android:toXDelta="-60%p"
+                android:duration="1000"
+        />
+
+        <alpha
+                android:fromAlpha="1"
+                android:toAlpha="0"
+                android:duration="1000"
+                android:startOffset="900"
+        />
+    </set>
+
+</set>
+ -->
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:ordering="sequentially"
+     >
+    <!--<objectAnimator
+            android:propertyName="alpha"
+            android:valueTo="0.5">
+    </objectAnimator>
+    <objectAnimator
+            android:propertyName="rotation"
+            android:valueTo="90.0">
+    </objectAnimator>
+    <objectAnimator
+            android:propertyName="scaleX"
+            android:valueTo="2.0">
+    </objectAnimator>
+    <objectAnimator
+            android:propertyName="translationX"
+            android:valueTo="100.0">
+    </objectAnimator> -->
+    <objectAnimator
+            android:propertyName="translationX"
+            android:valueTo="-100.0">
+    </objectAnimator>
+</set>
+
+
