@@ -5,7 +5,7 @@ The purpose of this project is for practicing some **[animations](https://develo
 
 # Screenshots
 ### Original screen
-![original](screenshots/original.gif)
+Coming soon..
 ### Implementation screen
 ![implementation](screenshots/implementation.gif)
 
