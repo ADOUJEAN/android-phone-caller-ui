@@ -123,13 +123,6 @@
             app:layout_constraintTop_toTopOf="@+id/circleImageInputCall"
             app:layout_constraintBottom_toBottomOf="@+id/circleImageInputCall"
             android:paddingRight="5dp">
-
-        <!--<de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/leftBubble"
-                android:layout_width="10dp" android:layout_height="10dp"
-                android:src="@color/red"
-        />-->
-
     </RelativeLayout>
 
     <RelativeLayout
@@ -142,13 +135,6 @@
             app:layout_constraintTop_toTopOf="@+id/circleImageInputCall"
             app:layout_constraintBottom_toBottomOf="@+id/circleImageInputCall"
             android:paddingLeft="5dp">
-
-        <!--<de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/rightBubble"
-                android:layout_width="10dp" android:layout_height="10dp"
-                android:src="@color/green_2"
-        />-->
-
     </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
